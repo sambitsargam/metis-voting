@@ -37,8 +37,21 @@ A decentralized Block chain Based Voting System
 
 ## STEP-5
 
-### Now go to the Poll history option
+### ⚫ Now go to the Poll history option
 
-### Copy the POLL ID
+### ⚫ Copy the POLL ID
 <img src="https://github.com/SAMBITSARGAM/metis-voting/blob/main/img/9-vote.png">
 
+## STEP-6
+
+### ⚫ Now click on the "FILL POLL" option and search the copied POLL ID
+<img src="https://github.com/SAMBITSARGAM/metis-voting/blob/main/img/10-vote.png">
+
+### ⚫ Select the Team and Click on vote 
+<img src="https://github.com/SAMBITSARGAM/metis-voting/blob/main/img/11-vote.png">
+<img src="https://github.com/SAMBITSARGAM/metis-voting/blob/main/img/12-vote.png">
+
+# FINAL DASHBOARD
+<img src="https://github.com/SAMBITSARGAM/metis-voting/blob/main/img/13-vote.png">
+
+## THANK YOU 
