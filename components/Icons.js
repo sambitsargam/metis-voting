@@ -1,6 +1,6 @@
 import LightningIcon from "../public/svg/lightning.svg"
 import FillPollIcon from "../public/svg/Fill Poll Icon.svg"
-import votingdappHorizontalIcon from "../public/svg/votechain Logo.png"
+import votingdappHorizontalIcon from "../public/svg/Votechain Logo.png"
 import LoginIcon from "../public/svg/Login.png"
 import HistoryIcon from "../public/svg/time.svg"
 import DashboardIcon from "../public/svg/Dashboard Icon.svg"
