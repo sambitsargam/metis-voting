@@ -16,6 +16,29 @@ A decentralized Block chain Based Voting System
 <img src="https://github.com/SAMBITSARGAM/metis-voting/blob/main/img/3-vote.png">
 
 ## STEP-3
-### ⚫ Click the Create Poll option from the left or there is an option "New Poll".
+### ⚫ Click the "Create a Poll" option from the left or there is an option "New Poll".
+
 ### ⚫ Write the Poll name and Description in that page.
 <img src="https://github.com/SAMBITSARGAM/metis-voting/blob/main/img/4-vote.png">
+
+### ⚫ Write the team name in the next step of creating a poll.
+<img src="https://github.com/SAMBITSARGAM/metis-voting/blob/main/img/5-vote'.png">
+
+## STEP-4
+
+### ⚫ Click on the "Create" buttom and confirm the transaction.
+<img src="https://github.com/SAMBITSARGAM/metis-voting/blob/main/img/6-vote.png">
+
+### ⚫ After that you will get the Confirmation
+<img src="https://github.com/SAMBITSARGAM/metis-voting/blob/main/img/7-vote.png">
+
+### ⚫ You can see the added poll in the Dashboard
+<img src="https://github.com/SAMBITSARGAM/metis-voting/blob/main/img/8-vote.png">
+
+## STEP-5
+
+### Now go to the Poll history option
+
+### Copy the POLL ID
+<img src="https://github.com/SAMBITSARGAM/metis-voting/blob/main/img/9-vote.png">
+
