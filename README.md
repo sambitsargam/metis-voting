@@ -1,2 +1,7 @@
-# metis-voting
+# METIS VOTING 
+# [IMP] ONLY STARDUST TESTNET NETWORK IS FULLY FUNCTIONAL ( DON'T WORRY I WILL CREATE CONTRACT FOR THE MAINNET )
 A decentralized Block chain Based Voting System
+
+## HOW TO USE:-
+
+### STEP-1
