@@ -115,6 +115,7 @@ function Dashboard() {
                   className="mr-4 mb-4"
                 >
                   New Poll
+              </Button>
                 <Button
                   onClick={() => router.push(routeNames["fill-poll"])}
                   color="pink"
